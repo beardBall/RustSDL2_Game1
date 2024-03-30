@@ -1,1 +1,0 @@
-C:\Users\user\Desktop\RustSDL2_Game1\target\debug\game_rl.exe: C:\Users\user\Desktop\RustSDL2_Game1\build.rs C:\Users\user\Desktop\RustSDL2_Game1\src\helpers.rs C:\Users\user\Desktop\RustSDL2_Game1\src\main.rs C:\Users\user\Desktop\RustSDL2_Game1\src\player.rs
