@@ -12,6 +12,7 @@ fn first(){
 	println!("First function");
 }
 
+
 fn get_age() -> i32{
  return 37;
 }
