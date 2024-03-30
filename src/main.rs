@@ -9,7 +9,7 @@ use crate::helpers::zz::*;
 
 
 fn first(){
-	println!("First function");
+	println!("First function goes here");
 }
 
 
