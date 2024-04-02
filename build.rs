@@ -1,5 +1,7 @@
 fn main(){
 
 
-	//println!("cargo:rustc-link-search=framework=/Library/Frameworks");
+	if cfg!(target_os = "macos"){	
+		println!("cargo:rustc-link-search=framework=/Library/Frameworks");
+}
 }

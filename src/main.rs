@@ -21,6 +21,7 @@ fn get_age() -> i32{
 
     fn main() ->Result<(), String> {
 
+        println!("target_os: macos? :  {}", cfg!(target_os="macos"));
 	println!("Hello!");
 	let ws = "Waqar";
 	let num:i32 =-30000;

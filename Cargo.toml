@@ -8,4 +8,4 @@ build = "build.rs"
 
 [dependencies.sdl2]
 version = "*"
-#features = ["use_mac_framework"]
+features = ["use_mac_framework"]
